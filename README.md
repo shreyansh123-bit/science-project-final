@@ -1,2 +1,2 @@
-# science-project-final
-Smart Traffic management system for suburban and urban cities
+# Smart-Traffic_lights
+Turn Lights green or red on street acording to traffic on lane
